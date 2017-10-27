@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea</dc:title>
+      <dc:creator>Bronisław Kasper Malinowski (1884–1942)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2017-10-27</dc:publisher>
+      <dc:date>2017-10-27</dc:date>
+      <dc:rights>
+</dc:rights>
+      <dc:subject>Kula exchange -- Papua New Guinea -- Trobriand Islands.</dc:subject>
+      <dc:subject>Massim (Papua New Guinean people) -- Rites and ceremonies.</dc:subject>
+      <dc:subject>Ethnology -- Papua New Guinea -- Trobriand Islands.</dc:subject>
+      <dc:identifier>pg:55822</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>

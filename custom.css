@@ -1,0 +1,14 @@
+
+
+blockquote .div1 {
+    padding-top: 0;
+}
+
+span.intra span.top {
+    font-style: italic;
+}
+
+span.intra span.bottom {
+    font-style: normal;
+}
+
